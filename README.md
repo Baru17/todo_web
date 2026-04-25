@@ -1,0 +1,1 @@
+Animated To-Do List — a responsive task manager built with pure HTML, CSS, and JavaScript. Add, edit, complete, and delete tasks with smooth animations, ripple button effects, filter views (All / Pending / Completed), and automatic saving to localStorage.
